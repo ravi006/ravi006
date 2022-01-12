@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Staff Engineer in Big Data and Analytics.
 - 🔭 I’m currently working on Big Data and Data Science Projects
 - 🌱 I’m currently learning Frontend
-- 👯 I’m looking to collaborate on Backend, Big Data and Data Science Prjects
+- 💻 I’m looking to collaborate on Backend, Big Data and Data Science Prjects
 
 ---
 
