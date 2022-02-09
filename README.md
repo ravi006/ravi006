@@ -7,8 +7,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Staff Engineer in Big Data and Analytics.
-- 🔭 I’m currently working on Big Data and Data Science Projects
-- 🌱 And learning Frontend (React|Typescript|Node)
+- 🔭 Working on Big Data and Data Science Projects
+- 🌱 And learning Frontend (React | Typescript | Node)
+- 🔭 Tremendous experience on analysis of various data including georelated (satilite images with different layers) data
+- 🔭 Design and develope stable data Pipelines
+- 🔭 Expertised on handling different data like Real Estate, E-Commerce, Digital Marketing and Automobile
+- 🔭 Experty on data integrations
+- 🔭 Research on DeepMind | Tensorflow | Keras
 - 💻 Looking to collaborate on Backend, Big Data and Data Science Prjects
 
 ---
@@ -24,6 +29,14 @@ Here are some ideas to get you started:
  * Java
  * Scala
  * Python
+ * Google Bigquery
+ * DeepMind | Tensorflow
+ * GeoTrellis
+ * PostGis
+ * Hive | Athena | Presto
+ * Rest Frameworks (Spring | Dropwizard | Play | Flask)
+ * Maven | Gradle | SBT
+ * Intellij | Pycharm | Google Colab | Jupyter Notebook
 
 ---
 
